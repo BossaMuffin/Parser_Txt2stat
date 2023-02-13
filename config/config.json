@@ -1,0 +1,7 @@
+{
+  "HTTP_SOURCE": "https://static.meteo-paris.com/station/downld02.txt",
+  "OUT_DIRECTORY": "download",
+  "OUT_DEFAULT_FILE_NAME": "default",
+  "OUT_DEFAULT_FILE_EXTENSION": ".txt",
+  "RELATIVE_OUT_PATH": "."
+}
