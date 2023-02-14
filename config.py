@@ -3,7 +3,7 @@ import json
 
 @dataclass
 class Config:
-    HTTP_SOURCE: str
+    MAX_FILE_SIZE_MB : int
     OUT_DIRECTORY: str
     OUT_DEFAULT_FILE_NAME: str
     OUT_DEFAULT_FILE_EXTENSION: str
